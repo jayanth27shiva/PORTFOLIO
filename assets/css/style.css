@@ -45,7 +45,7 @@ body {
   position: relative;
   background: transparent;
 }
-
+ 
 body::before {
   content: "";
   position: fixed;
