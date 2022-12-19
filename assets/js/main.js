@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-consoleText(["I'm Passionate Programmer","Software Developer","Traveller"], 'text',['white','white','white']);
+consoleText(["Passionate Programmer","Software Developer","Traveller"], 'text',['white','white','white']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
